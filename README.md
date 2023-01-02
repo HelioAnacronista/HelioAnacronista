@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for a job. [connect](https://www.linkedin.com/in/helio-fernandes-4b993b23a/)<br>👯 I’m looking to collaborate on microservices and freelance client.<br>🤝 I’m looking for help with Software Engineering.<br>🌱 I’m currently learning  React - Node<br>💬 Ask me about basketball, technology, and movies.<br>⚡ Fun fact I like a lot investigative movies.
+🔭 I’m currently looking for a job=[connect](https://www.linkedin.com/in/helio-fernandes-4b993b23a/)<br>👯 I’m looking to collaborate on microservices and freelance client.<br>🤝 I’m looking for help with Software Engineering.<br>🌱 I’m currently learning  React<br>💬 Ask me about basketball, technology, and movies.<br>⚡ Fun fact I like a lot investigative movies.
 
 
 
