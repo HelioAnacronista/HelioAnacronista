@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VScode(Neonvim), Intellij, Figma</strong>
+  💼 Ferramentas: <strong>VScode(neonvim), Intellij, Figma</strong>
 </p>
 
 <p align="left">
