@@ -45,4 +45,4 @@
 [![](https://visitcount.itsvg.in/api?id=HelioAnacronista&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- lembre-se que algumas verdades nesse mundo são mentiras bem contadas -->
